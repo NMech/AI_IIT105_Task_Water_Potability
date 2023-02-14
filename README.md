@@ -33,7 +33,7 @@ The repository structure is simple and self-explanatory. It containts the follow
 | Results         | Folder that contains all the results that the code produces (.dat and .json) |
 | import_data     | Folder that contains the water_potability.csv file (data used as input for training/test) |
 | import_pys      | Code has been splitted in multiple files for better overview. This folder contains all the .py files apart from the main.py |
-| models          | Contains all the exported trained models (.pickle files) |
+| models          | Folder that contains all the exported trained models (.pickle files) |
 
 Files and the dependencies between them can be seen in the following PlantUml diagram:
 
