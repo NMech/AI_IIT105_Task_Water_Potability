@@ -1,6 +1,6 @@
 # AI_IIT105_Task_Water_Potability
 ## Water Potability Classification
-Bibary classification problem in which, based on the values of nine different attributes/features, we classify water samples into one of two categories (0-non potable, 1-potable). The following table contains the aforementioned features as well as a basic description for each one of them.
+Binary classification problem in which, based on the values of nine different attributes/features, we classify water samples into one of two categories (0-non potable, 1-potable). The following table contains the aforementioned features as well as a basic description for each one of them.
 
 | # | Attribure       |  Description                         |               
 |---|-----------------|--------------------------------------|
