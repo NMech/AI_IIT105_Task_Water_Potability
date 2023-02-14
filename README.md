@@ -34,6 +34,10 @@ The repository structure is simple and self-explanatory. It containts the follow
 | import_data     | Folder that contains the water_potability.csv file (data used as input for training/test) |
 | import_pys      | Code has been splitted in multiple files for better overview. This folder contains all the .py files apart from the main.py |
 
+Files and the dependencies between them can be seen in the following PlantUml diagram:
+
+![alt text](https://github.com/NMech/AI_IIT105_Task_Water_Potability/blob/main/plantUml.PNG?raw=true)
+
 ## Basic Results
 Below we can see the results of our trained models. More details can be found in the report.
 | Classifier        | Accuracy | Precision | Recall | f1    |
