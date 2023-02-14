@@ -13,3 +13,25 @@ Bibary classification problem in which, based on the values of nine different at
 | 6 | Organic_Carbon  | Concentration of Organic Carbon [ppm] |
 | 7 | Trihalomethanes | Chemicals found in water treated with chlorine [μg/L] |
 | 8 | Turbidity       | Light emitting property of water [NTU] |
+
+## Basic Code Information
+The code has been developped in **python 3.8.2**. To run the code, the requirements.txt file must be used in order to load all the needed modules/packages. Then, through a random IDE (i.e spyder), we can run the code by opening and running the main.py file which is located inside the src folder.
+
+## Repository Structure
+The repository structure is simple and self-explanatory. It containts the following folders and files:
+
+**requirements.txt** - File that contains all the modules/packages information needed to run the code.
+
+**Presentation folder** - Contains the presentation both in .pptx and .pdf format.
+
+**Report folder** - Contains the report as .pdf file. Also, there is a compressed file that contains the LaTeX code that has been created.
+
+**src folder** - contains the following files and folders
+| Files/Folders   |  Description                         |               
+|-----------------|--------------------------------------|
+| main.py         | Main file of our source code |
+| Results         | Folder that contains all the results that the code produces (.dat and .json) |
+| import_data     | Folder that contains the water_potability.csv file (data used as input for training/test) |
+| import_pys      | Code has been splitted in multiple files for better overview. This Folder contains all the .py files apart from the main.py |
+
+## Basic Results
