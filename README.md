@@ -35,3 +35,10 @@ The repository structure is simple and self-explanatory. It containts the follow
 | import_pys      | Code has been splitted in multiple files for better overview. This Folder contains all the .py files apart from the main.py |
 
 ## Basic Results
+Below we can see the results of our trained models. More details can be found in the report.
+| Classifier        | Accuracy | Precision | Recall | f1    |
+|-------------------|----------|-----------|--------|-------|
+| Gradient Boosting | 0.677    | 0.654     | 0.279  | 0.391 |
+| Random Forest     | 0.686    | 0.698     | 0.275  | 0.394 |
+| RBF SVM           | 0.692    | 0.684     | 0.320  | 0.436 | 
+| Voting Classifier | 0.684    | 0.683     | 0.283  | 0.400 |
