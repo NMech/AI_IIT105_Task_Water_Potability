@@ -1,6 +1,6 @@
 # AI_IIT105_Task_Water_Potability
 ## Water Potability Classification
-Binary classification problem in which, based on the values of nine different attributes/features, we classify water samples into one of two categories (0-non potable, 1-potable). The following table contains the aforementioned features as well as a basic description for each one of them.
+Binary classification problem in which, based on the values of nine different attributes/features, we classify water samples into one out of two categories (0-non potable, 1-potable). The following table contains the aforementioned features as well as a basic description for each one of them.
 
 | # | Attribure       |  Description                         |               
 |---|-----------------|--------------------------------------|
@@ -15,7 +15,7 @@ Binary classification problem in which, based on the values of nine different at
 | 8 | Turbidity       | Light emitting property of water [NTU] |
 
 ## Basic Code Information
-The code has been developped in **python 3.8.2**. To run the code, the requirements.txt file must be used in order to load all the needed modules/packages. Then, through a random IDE (i.e spyder), we can run the code by opening and running the main.py file which is located inside the src folder.
+The code has been developped in **python 3.8.2**. To run the code, the requirements.txt file must be used in order to load all the needed modules/packages. Then, using an IDE (i.e spyder), we can run the code by executing the main.py file which is located inside the src folder.
 
 ## Repository Structure
 The repository structure is simple and self-explanatory. It containts the following folders and files:
