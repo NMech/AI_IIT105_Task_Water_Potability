@@ -32,7 +32,7 @@ The repository structure is simple and self-explanatory. It containts the follow
 | main.py         | Main file of our source code |
 | Results         | Folder that contains all the results that the code produces (.dat and .json) |
 | import_data     | Folder that contains the water_potability.csv file (data used as input for training/test) |
-| import_pys      | Code has been splitted in multiple files for better overview. This Folder contains all the .py files apart from the main.py |
+| import_pys      | Code has been splitted in multiple files for better overview. This folder contains all the .py files apart from the main.py |
 
 ## Basic Results
 Below we can see the results of our trained models. More details can be found in the report.
