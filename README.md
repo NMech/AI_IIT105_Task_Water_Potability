@@ -41,7 +41,7 @@ Files and the dependencies between them can be seen in the following PlantUml di
 ![alt text](https://github.com/NMech/AI_IIT105_Task_Water_Potability/blob/main/PlantUml.PNG?raw=true)
 
 ## Demo
-Demo code can be executed through the demo.py file. We can inject (hard-coded) values for our nine (9) features, and the demo-code will answer if the water
+Demo code can be executed through the demo.py file. We can inject (hard-coded) values for our nine (9) features, and the demo code will answer if the water
 is potable or not. By default our code classifies the input using the Voting Classifier that we have trained (Voting_Classifier.joblib file in models folder).
 We can change the default behaviour and use each of the 14 classifiers that we have trained. In order to do that, we need at first to run the main.py file in
 order to export the .joblib files for the 14 other classifiers. We did not upload these files due to github's size restrictions.
