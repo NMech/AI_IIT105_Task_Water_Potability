@@ -33,7 +33,7 @@ The repository structure is simple and self-explanatory. It containts the follow
 | Results         | Folder that contains all the results that the code produces (.dat and .json) |
 | import_data     | Folder that contains the water_potability.csv file (data used as input for training/test) |
 | import_pys      | Code has been splitted in multiple files for better overview. This folder contains all the .py files apart from the main.py |
-| models          | Folder that contains all the exported trained models (.pickle files) |
+| models          | Folder that contains all the exported trained models (.joblib files) |
 
 Files and the dependencies between them can be seen in the following PlantUml diagram:
 
@@ -43,7 +43,7 @@ Files and the dependencies between them can be seen in the following PlantUml di
 Below we can see the results of our trained models. More details can be found in the report.
 | Classifier        | Accuracy | Precision | Recall | f1    |
 |-------------------|----------|-----------|--------|-------|
-| Gradient Boosting | 0.677    | 0.654     | 0.279  | 0.391 |
-| Random Forest     | 0.686    | 0.698     | 0.275  | 0.394 |
-| RBF SVM           | 0.692    | 0.684     | 0.320  | 0.436 | 
-| Voting Classifier | 0.684    | 0.683     | 0.283  | 0.400 |
+| Gradient Boosting | 0.683    | 0.700     | 0.258  | 0.377 |
+| Random Forest     | 0.686    | 0.702     | 0.270  | 0.391 |
+| RBF SVM           | 0.691    | 0.678     | 0.320  | 0.435 | 
+| Voting Classifier | 0.686    | 0.698     | 0.275  | 0.394 |
