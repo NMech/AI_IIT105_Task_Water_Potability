@@ -1,0 +1,34 @@
+{
+    "gdb_clf": [
+        {
+            "learning_rate": 0.01,
+            "max_depth": 8,
+            "max_features": "sqrt",
+            "n_estimators": 200
+        },
+        0.6622137404580153
+    ],
+    "gnd_clf": [
+        {
+            "max_depth": 12,
+            "max_features": "auto",
+            "n_estimators": 200
+        },
+        0.665267175572519
+    ],
+    "adab_clf": [
+        {
+            "algorithm": "SAMME.R",
+            "learning_rate": 0.1,
+            "n_estimators": 200
+        },
+        0.6187022900763359
+    ],
+    "rbf_svm": [
+        {
+            "C": 1.0,
+            "gamma": "scale"
+        },
+        0.6698473282442748
+    ]
+}
